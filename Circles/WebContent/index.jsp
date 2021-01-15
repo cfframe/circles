@@ -12,7 +12,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Circles and towns JSON generator</title>
+        <title>Circles and towns JSON generator TEST</title>
     </head>
     <body>
         <h1>Circles Data Generator</h1>
